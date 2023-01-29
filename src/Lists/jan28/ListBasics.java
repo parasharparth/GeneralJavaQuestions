@@ -5,7 +5,7 @@ public class ListBasics {
 
     public static void main(String[] args)
     {
-        ArrayList<Integer> list = new ArrayList<>(10);
+        ArrayList<Integer> list = new ArrayList<>();
         for(int i=0; i<10; i++)
         {
             list.add(i);
