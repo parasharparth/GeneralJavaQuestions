@@ -1,4 +1,4 @@
-package Lists.jan28;
+package Lists.CY2023.January.jan28;
 
 public class TrimmingListToSize {
 

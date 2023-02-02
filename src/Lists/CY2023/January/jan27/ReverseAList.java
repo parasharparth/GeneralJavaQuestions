@@ -1,4 +1,4 @@
-package Lists.jan27;
+package Lists.CY2023.January.jan27;
 
 import java.util.ArrayList;
 public class ReverseAList {
